@@ -1,1 +1,1 @@
-# practice-repo
+# My first open source project
